@@ -1,12 +1,6 @@
 # <a href="https://app.budgetzero.io"><p align="center"><img src="public/logo.png" width="300"></p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1eb6d21e-b83a-42ca-9b46-82a0b37889f6/deploy-status)](https://app.netlify.com/sites/budgetzero/deploys)
-![master](https://img.shields.io/github/checks-status/budgetzero/budgetzero/master?label=master)
-![dev](https://img.shields.io/github/checks-status/budgetzero/budgetzero/dev?label=dev)
-![Docker Pulls](https://img.shields.io/docker/pulls/budgetzero/budgetzero)  
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/budgetzero?style=for-the-badge)
   
-<a href="https://www.buymeacoffee.com/budgetzero" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-  
+
 budgetzero is a free, open-source, privacy-friendly, offline-first budgeting system.  
 
 Use at [budgetzero.io](https://app.budgetzero.io), [download the desktop apps](https://github.com/budgetzero/budgetzero/releases/latest) or self-host on your own server. Zero ads, zero trackers, just budgeting.
